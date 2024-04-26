@@ -1,0 +1,12 @@
+[package]
+name = "sonic-rs-issue-deserialize-gb18030-encoded-bytes"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sonic-rs = "*"
+serde = "*"
+serde_json = "*"
+encoding_rs = "*"
