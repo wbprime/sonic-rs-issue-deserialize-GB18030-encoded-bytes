@@ -1,0 +1,1 @@
+# sonic-rs-issue-deserialize-GB18030-encoded-bytes
